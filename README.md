@@ -111,5 +111,6 @@ Esto por las siguientes razones:
 2. Tiene la menor cantidad de ventas en las tres categorías de producto más vendidas en todo el sistema.
 3. A pesar de tener la menor cantidad de reseñas negativas de los clientes, su calificación promedio es muy competitiva (segundo lugar).
 4. El costo promedio de envío es muy similar a la media entre las cuatro tiendas.
+5. La Tienda 2 no cuenta con algún otro rubro que la destaque por encima de cualquier otra: la Tienda 1 es la que genera mayor facturación, la Tienda 3 es la de mejor reputación entre los clientes, y la Tienda 4 es la más eficiente en términos de gastos variables.
 
 Finalmente, se debe tomar en cuenta que todo lo anterior es una recomendación efectuada con base en el análisis ya presentado, ya que la decisión final corresponde al señor Juan exclusivamente.
